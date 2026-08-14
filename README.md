@@ -1,1 +1,1 @@
-[![chropic's GitHub stats](https://github-readme-stats.vercel.app/api?username=chropic&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![chropic's GitHub stats](https://github-stats-extended.vercel.app/api?username=chropic)](https://github.com/stats-organization/github-stats-extended)
